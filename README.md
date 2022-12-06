@@ -1,7 +1,7 @@
 ### Welcome
-#### Here are some things about me :)
 
-- 👋 Hi, I’m @postname, Studying at NHL Stenden Hogeschool.
+#### 👋 Hi, I’m @postname, Studying at NHL Stenden Hogeschool.
+##### Here are some things about me :)
 - 👀 I’m interested in Cybersecurity.
 - 🌱 I’m currently learning C#, Webdevelopment (HTML, CSS & JS).
 
