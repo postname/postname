@@ -1,6 +1,4 @@
-### Welcome
-
-#### 👋 Hi, I’m @postname, Studying at NHL Stenden Hogeschool.
+### 👋 Hi, I’m @postname, Studying at NHL Stenden Hogeschool.
 #### 📖 My current study is Computer Sience
 ##### Here are some things about me :)
 - 👀 I’m interested in Cybersecurity.
