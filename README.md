@@ -1,11 +1,8 @@
-### 👋 Hi, I’m @postname, Working and Studying at Windesheim.
+### 👋 Hi, I’m @postname
 #### 💼 Working as a Technical Consultant, currently focused on Network Administration.
 #### 📖 My current study is Cloud & Security Engineering
 
-##### Here are some things about me :)
-- 👀 I’m interested in Cybersecurity and Ethical Hacking.
-
-## 🎯 Focus Areas
+## 👀 Current Interests
 - **Cybersecurity:** OSINT, ethical hacking, digital forensics  
 - **Cloud Automation:** Infrastructure as Code, Docker & Kubernetes, observability & monitoring  
 - **Cloud Security Governance:** risk analysis & compliance, policy & governance, translating policy to operations
