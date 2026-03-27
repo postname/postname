@@ -1,4 +1,5 @@
-### 👋 Hi, I’m @postname, Studying at Windesheim.
+### 👋 Hi, I’m @postname, Working and Studying at Windesheim.
+#### 💼 Working as a Technical Consultant, currently focused on Network Administration.
 #### 📖 My current study is Cloud & Security Engineering
 
 ##### Here are some things about me :)
@@ -17,9 +18,6 @@
 - **Security:** OSINT methods, penetration testing basics, forensic fundamentals  
 - **CI/CD & Automation:** pipelines, scripting, DevOps principles  
 - **Networking:** CCNA certified — networking fundamentals, routing & switching
-
-## 💼 Professional
-- Working as a Technical Consultant, currently focused on Network Administration.
 
 ## 🛠️ Working Approach & Learning Goals
 - Hands-on labs and practical projects  
